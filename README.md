@@ -3,6 +3,9 @@ The Modern Periodic Table project is a simple console application built without 
 • Exploration of element Information: Another main function of this project is to explore or to display the stored information. You can search an element by using any of the following method:
 
 1.By name of element
+
 2.By symbol of element
+
 3.By atomic number of element
+
 4.By atomic weight
